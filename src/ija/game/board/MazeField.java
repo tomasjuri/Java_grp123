@@ -1,5 +1,5 @@
 
-package ija.homework2.board;
+package ija.game.board;
 
 /**
  *

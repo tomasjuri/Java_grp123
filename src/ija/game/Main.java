@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ija.homework2;
+package ija.game;
 
 import java.io.IOException;
-import ija.homework2.board.MazeBoard;
+import ija.game.board.MazeBoard;
 /**
  *
  * @author Jan

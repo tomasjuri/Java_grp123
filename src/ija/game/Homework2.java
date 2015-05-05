@@ -1,6 +1,9 @@
 
-package ija.homework2;
+package ija.game;
 
+import ija.game.board.MazeCard;
+import ija.game.board.MazeField;
+import ija.game.board.MazeBoard;
 import java.lang.reflect.*;
 
 import org.junit.After;
@@ -8,7 +11,6 @@ import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-import ija.homework2.board.*;
 
 /**
  * Homework2: uloha c. 2 z IJA

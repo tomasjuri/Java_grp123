@@ -1,8 +1,9 @@
 
-package ija.homework2;
+package ija.game;
 
+import ija.game.board.MazeField;
+import ija.game.board.MazeBoard;
 import java.io.*;
-import ija.homework2.board.*;
 import Java.lang.*;
 
 /**
